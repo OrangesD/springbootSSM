@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class zhangController {
 	
-	public Object test(){
+	public Object testmater2(){
 		return null;
 	}
 
