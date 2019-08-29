@@ -1,5 +1,5 @@
 package com.zhao.controller;
 
-public class LoginController {
+public class UserController {
 
 }
